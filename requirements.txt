@@ -1,0 +1,8 @@
+bs4
+sentence_transformers
+transformers
+requests
+numpy
+pandas
+flask
+faiss-cpu

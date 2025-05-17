@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+.gradio
+__pycache__
+env
+templates
+new_main.ipynb
+new.py
+.env
